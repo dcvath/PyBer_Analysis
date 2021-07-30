@@ -1,23 +1,14 @@
-# Kickstarting with Excel
+# Pyber Analysis
 
-## Overview of Project
+## Overview of the Analysis
 
 ### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
+Explain the purpose of the new analysis.
 
 ## Results
+Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+## Summary
+Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
-- What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
