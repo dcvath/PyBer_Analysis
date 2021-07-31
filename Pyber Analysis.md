@@ -20,7 +20,7 @@ The above summary shows that although the Suburban city type is approximately ha
 The above summary shows that the Rural city type brings the lowest numbers in total rides at 125, total drivers at 78, and total fares at $4,327.93. However, it does bring the highest average fare per ride at $34.62 and average fare per driver at $55.49.
 
 ### Total Fare By City Type
-The below multiple line graph shows thee total weekly fares for each city type for January 1, 2019 - April 29, 2019.
+The below multiple line graph shows the total weekly fares for each city type for January 1, 2019 - April 29, 2019.
 
 ![Total Fare by City Type](https://user-images.githubusercontent.com/85654649/127723808-f38a864b-f47c-469c-b317-cda5d878001d.png)
 
