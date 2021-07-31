@@ -30,5 +30,5 @@ The below multiple line graph shows the total weekly fares for each city type fo
 ### Business Recommendations
 1) Since the Urban city type has the highest number of fares, but lowest average fare per ride, the business recommendation is to continue to invest in the Urban city type, but to encourage longer trips by offering discounts to farther destinations.
 2) The Suburban city type has an opporutnity to increase the total fares, but would need additional drivers in the area to execute on this. The business recommendation is to hire additional drivers and advertise in the area to solicit additional riders. 
-3) Despite the Rural City type having the highest average fare per ride and average fare per driver, due to the nature of the Rural communities with low populations, the business recommendation is not to make any changes to this city type at this time.
+3) Despite the Rural city type having the highest average fare per ride and average fare per driver, due to the nature of the Rural communities with low populations, the business recommendation is not to make any changes to this city type at this time.
 
